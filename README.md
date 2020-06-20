@@ -1,1 +1,1 @@
-# coursera_cap_porject_2020
+# coursera_cap_project_2020
